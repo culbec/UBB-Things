@@ -1,5 +1,5 @@
 # UBB-Things
-A repository containing some of my work as a **Computer Science** student at _BBU, Cluj-Napoca_.
+A repository containing _links_ to some of my work as a **Computer Science** student at _BBU, Cluj-Napoca_.
 
 ## Table of contents
 
