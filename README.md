@@ -69,3 +69,11 @@ I don't have any specific course tracking for the first semester of the first un
   - [ML - Project](https://github.com/culbec/DiabetesHealthIndicators)
 - [Advanced Methods for Data Analysis](https://github.com/culbec/AMDA)
 - [Mathematical Modeling](https://github.com/culbec/MathematicalModeling)
+
+### Second Semester
+- [Multi Agent Systems](https://github.com/culbec/MAS)
+  - [MAS - Projects](https://github.com/culbec/multi-agent-systems)
+- [Natural Language Processing](https://github.com/culbec/NLP)
+  - [NLP - Project](https://github.com/tudormihaita/nlp-rag-bench)
+- [Scientific Data Visualization](https://github.com/culbec/SDV)
+- [Knowledge Discovery](https://github.com/culbec/KD)
